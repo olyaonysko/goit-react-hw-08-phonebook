@@ -1,0 +1,27 @@
+h2 {
+  text-align: center;
+}
+
+.list {
+  padding: 0px;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 23px;
+  font-style: italic;
+  padding: 6px;
+  margin-bottom: 10px;
+  background-color: #7bc9eb;
+  border-radius: 5px;
+}
+
+.button {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
